@@ -1,5 +1,5 @@
 # To Run the project download source code & insatll:
-1.Dependencies: npm install
+1.Dependencies: npm install.\
 2.Highcharts library: npm i highcharts
 3.Highcharts officials: npm i highcharts-react-official
 
